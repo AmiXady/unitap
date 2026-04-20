@@ -1,32 +1,31 @@
 # UniTap
 
-[Посмотреть платформу](https://unitap.org) 
+[View Platform](https://unitap.org)
 
-**Описание проекта:**  
-UniTap — это платформа, которая помогает студентам поступать в зарубежные университеты, предоставляя удобные инструменты для поиска программ, подачи заявок и отслеживания прогресса.
+**Project Description:**  
+UniTap is a platform that helps students apply to international universities by providing convenient tools for searching programs, submitting applications, and tracking progress.
 
-**Мои достижения в проекте:**  
-- Разработал проект полностью на **Java + Spring Boot** под менторством опытного разработчика.  
-- Интегрировал **платежи через Firebase и сторонние сервисы**, настроил уведомления и хранение данных пользователей.  
-- Создавал функционал для работы с пользователями, университетами, заявками и уведомлениями.  
-- Проект построен так, чтобы легко добавлять новые фичи и поддерживать стабильность кода. 
+**My Contributions:**  
+- Developed the project entirely using **Java + Spring Boot** under the mentorship of an experienced developer.  
+- Integrated **payments via Firebase and third-party services**, set up notifications, and managed user data storage.  
+- Implemented features for managing users, universities, applications, and notifications.  
+- Designed the system to be scalable, making it easy to add new features while maintaining code stability.  
 
-
-**Технологии и инструменты:**  
+**Technologies & Tools:**  
 - Java 17, Spring Boot  
 - JPA / Hibernate  
-- PostgreSQL  15
-- Firebase (аутентификация, уведомления, база данных)  
-- Платежные интеграции  
+- PostgreSQL 15  
+- Firebase (authentication, notifications, database)  
+- Payment integrations  
 - Git / GitHub  
-- Docker 
+- Docker  
 
-**Функционал проекта:**  
-- Управление пользователями и ролями  
-- Работа с университетами и специальностями  
-- Система заявок и уведомлений  
-- Панель администратора для управления платформой  
-- Платежи и подписки через Firebase  
+**Project Features:**  
+- User and role management  
+- University and program management  
+- Application and notification system  
+- Admin panel for platform management  
+- Payments and subscriptions via Firebase  
 
-**Примечание:**  
-Проект разрабатывался как реальный продукт под наставничеством старшего разработчика. Я реализовал основную бизнес-логику, интеграции и моделировал архитектуру под реальные кейсы
+**Note:**  
+The project was developed as a real-world product under the guidance of a senior developer. I was responsible for implementing core business logic, integrations, and designing the architecture based on real use cases.
